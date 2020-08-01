@@ -1,0 +1,144 @@
+{
+    "values": [
+        {
+            "entity": "Intel",
+            "year": "1985",
+            "computing": "0.33"
+        },
+        {
+            "entity": "Intel",
+            "year": "1978",
+            "computing": "3.67"
+        },
+        {
+            "entity": "Frantz",
+            "year": "1985",
+            "computing": "0.08"
+        },
+        {
+            "entity": "Frantz",
+            "year": "1995",
+            "computing": "0.002"
+        },
+        {
+            "entity": "Frantz",
+            "year": "1989",
+            "computing": "0.02"
+        },
+        {
+            "entity": "Frantz",
+            "year": "2000",
+            "computing": "0.0001"
+        },
+        {
+            "entity": "Frantz",
+            "year": "1997",
+            "computing": "0.0005"
+        },
+        {
+            "entity": "Frantz",
+            "year": "2003",
+            "computing": "0.000015"
+        },
+        {
+            "entity": "Intel",
+            "year": "1982",
+            "computing": "1.13"
+        },
+        {
+            "entity": "Intel",
+            "year": "1989",
+            "computing": "0.155"
+        },
+        {
+            "entity": "Smailagic",
+            "year": "1999",
+            "computing": "0.00055"
+        },
+        {
+            "entity": "Frantz",
+            "year": "1993",
+            "computing": "0.005"
+        },
+        {
+            "entity": "Frantz",
+            "year": "1998",
+            "computing": "0.0002"
+        },
+        {
+            "entity": "Smailagic",
+            "year": "2004",
+            "computing": "0.000125"
+        },
+        {
+            "entity": "Intel",
+            "year": "1971",
+            "computing": "3.75"
+        },
+        {
+            "entity": "Intel",
+            "year": "1976",
+            "computing": "1.62"
+        },
+        {
+            "entity": "Frantz",
+            "year": "1996",
+            "computing": "0.0015"
+        },
+        {
+            "entity": "Smailagic",
+            "year": "1992",
+            "computing": "0.1"
+        },
+        {
+            "entity": "Smailagic",
+            "year": "2015",
+            "computing": "0.000008"
+        },
+        {
+            "entity": "Frantz",
+            "year": "1999",
+            "computing": "0.00015"
+        },
+        {
+            "entity": "Frantz",
+            "year": "1991",
+            "computing": "0.015"
+        },
+        {
+            "entity": "Intel",
+            "year": "1972",
+            "computing": "5"
+        },
+        {
+            "entity": "Smailagic",
+            "year": "1994",
+            "computing": "0.011"
+        },
+        {
+            "entity": "Smailagic",
+            "year": "1995",
+            "computing": "0.005"
+        },
+        {
+            "entity": "Intel",
+            "year": "1974",
+            "computing": "0.781"
+        },
+        {
+            "entity": "Frantz",
+            "year": "1986",
+            "computing": "0.09"
+        },
+        {
+            "entity": "Smailagic",
+            "year": "1993",
+            "computing": "0.05"
+        },
+        {
+            "entity": "Smailagic",
+            "year": "2009",
+            "computing": "0.000031"
+        }
+    ]
+}
